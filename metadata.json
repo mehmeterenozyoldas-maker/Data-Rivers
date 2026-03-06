@@ -1,0 +1,7 @@
+{
+  "name": "V2 Aesthetic Engine: Rivers",
+  "description": "An interactive 3D generative art piece powered by Three.js, Face Tracing, and Real-time Weather Data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
